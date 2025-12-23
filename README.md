@@ -1,3 +1,3 @@
 <h2 style="text-align:center">Best Online Ordering Platforms for Restaurants</h2><br/><br/>
-
-![best online ordering platforms for restaurants](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/patricia/21.webp) <br/><br/>The best online ordering platforms for restaurants frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=patricia-best-online-ordering-platforms-for-restaurants" target="_blank">click here.</a>
+ 
+ ![best online ordering platforms for restaurants](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/patricia/21.webp) <br/><br/>The best online ordering platforms for restaurants frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/patricia-best-online-ordering-platforms-for-restaurants" target="_blank">click here.</a>
